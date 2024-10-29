@@ -7,7 +7,15 @@
     <generator>Hugo -- 0.136.5</generator>
     <language>zh</language>
     <copyright>©2024 heis&amp;rsquo;s Blog</copyright>
+    <lastBuildDate>Tue, 29 Oct 2024 23:22:11 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>http://localhost:1313/posts/hello/</link>
+      <pubDate>Tue, 29 Oct 2024 23:22:11 +0800</pubDate>
+      <guid>http://localhost:1313/posts/hello/</guid>
+      <description></description>
+    </item>
     <item>
       <title>标签</title>
       <link>http://localhost:1313/tags/</link>
